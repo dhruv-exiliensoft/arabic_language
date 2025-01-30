@@ -70,7 +70,6 @@
       "please_try_again_after_sometime": "يرجى المحاولة مرة أخرى لاحقًا",
       "home": "الرئيسية",
       "discover": "استكشاف",
-      "my_trips": "رحلاتي",
       "reports": "التقارير",
       "maximum_resend_attempts_reached": "تم الوصول إلى الحد الأقصى من محاولات إعادة الإرسال",
       "check_your_email": "تحقق من بريدك الإلكتروني",
@@ -160,7 +159,6 @@
       "please_select_country": "يرجى تحديد الدولة",
       "reate_a_roles": "إنشاء دور",
       "remove": "إزالة",
-      "search_trips": "بحث عن الرحلات",
       "select_passport_expiry_date": "حدد تاريخ انتهاء صلاحية جواز السفر",
       "start_a_trip": "ابدأ رحلة",
       "trip_status": "حالة الرحلة",
@@ -171,7 +169,6 @@
       "visa_expiry_date": "تاريخ انتهاء صلاحية التأشيرة",
       "visa_passport": "جواز السفر للتأشيرة",
       "you_havent_added_any_roles_yet": "لم تقم بإضافة أي أدوار بعد",
-      "you_havent_planned_any_trips_yet": "لم تقم بتخطيط أي رحلات بعد",
       "your_password_has_been_successfully_reset_click_confirm_to_set_a_new_password": "تمت إعادة تعيين كلمة المرور بنجاح. انقر فوق تأكيد لتعيين كلمة مرور جديدة"
     }
   ]
